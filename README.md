@@ -13,7 +13,7 @@ API de Twitter + Tweepy
 ## Bibliotecas principales utilizadas:
 Python-Twitter, NLTK, Pandas
 
-Etiquetado usando K-neighbors
+Etiquetado usando K-means
 
 ## Categorías para recuperar y evaluar con tweets (etiquetas no incluidas en el csv publicado del conjunto de datos):
 
